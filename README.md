@@ -1,6 +1,6 @@
 # Simple_Card_Game
 
-## A simple card game for two players.
+## A simple, two player, card game simulation.
 #########
 
 The deck of cards contains 52 cards with 13 cards each in the 4 suits:
